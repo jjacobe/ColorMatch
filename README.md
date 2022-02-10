@@ -12,7 +12,9 @@ I wrote this software in Kotlin to learn more about the language syntax, to lear
 # Development Environment
 
 Android Studio
+
 Kotlin
+
 XML
 
 # Useful Websites
